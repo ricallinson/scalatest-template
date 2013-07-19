@@ -11,8 +11,8 @@ class BasicTest extends FunSpec {
             assert(new Basic().colour === "Blue")
         }
 
-        it("should return 'Awesome'") {
-            assert(new Basic().disposition === "Awesome")
+        it("should return 'Brilliant'") {
+            assert(new Basic().disposition === "Brilliant")
         }
     }
 }
