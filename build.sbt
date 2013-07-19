@@ -1,4 +1,4 @@
-name := "json"
+name := "new-project"
 
 version := "0.1.0"
 
