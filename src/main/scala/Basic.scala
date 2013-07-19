@@ -2,5 +2,5 @@ package com.example
  
 class Basic {
     def colour = "Blue"
-    def disposition = "Awesome"
+    def disposition = "Brilliant"
 }
