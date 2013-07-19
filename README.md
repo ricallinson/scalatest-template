@@ -1,4 +1,4 @@
-Scalatest-template
+# Scalatest-template
 
 A simple template project for Scala.
 
