@@ -8,11 +8,11 @@ class BasicTest extends FunSpec {
     describe("Basic") {
 
         it("should return 'Blue'") {
-            new Basic().colour
+            assert(new Basic().colour === "Blue")
         }
 
         it("should return 'Awesome'") {
-            new Basic().disposition
+            assert(new Basic().disposition === "Awesome")
         }
     }
 }
